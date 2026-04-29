@@ -1,0 +1,1 @@
+{'pre_covid_avg': np.float64(7.671582642637833), 'peak': np.float64(21.73638382264792), 'peak_month': '2020-04', 'abs_change': np.float64(14.064801180010086), 'pct_change': np.float64(183.33637054027722)}
